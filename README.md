@@ -20,4 +20,4 @@ python language syntax, functions, parameters, arrays, design and style.
 13. Fundamental algorithms
 14. Final exam revision
 
-[Click this link to go to course textbook, Startin Out with Python-3rd edition](/Textbook/Starting Out with Python-3rd edition.pdf)
+[Click this link to go to course textbook, Startin Out with Python-3rd edition] (/Textbook/Starting Out with Python-3rd edition.pdf)
